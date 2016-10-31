@@ -1,5 +1,5 @@
 
-<h1>Platzigram DB</h1>
+<h1>Platzigram Client</h1>
 
 Módulo de cliente de conexión entre frontend y API para Platzigram.
 
